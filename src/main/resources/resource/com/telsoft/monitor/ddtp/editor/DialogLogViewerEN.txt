@@ -1,0 +1,6 @@
+Title==Event log for thread
+DeleteOK==Do you really want to delete this log file server?
+Delete==Delete
+	Mnemonic==D
+Close==Exit
+	Mnemonic==X

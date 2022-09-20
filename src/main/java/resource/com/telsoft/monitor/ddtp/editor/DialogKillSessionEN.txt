@@ -1,0 +1,9 @@
+Session==Sessions
+SessionID==Session Id
+Username==Username
+Gateway==Gateway
+LoginTime==LoginTime
+IP==IP Address
+KillSession==Kill
+btnKill==Kill Sessions
+Cancel==Cancel

@@ -1,0 +1,100 @@
+Title==Thread schedule
+ID==ID
+Description==Description
+NextExecution==Next execution date
+ExecutionCount==Execution count
+ExecutionTime==Perform
+ExecutionTimeDesc==times per day
+AdditionValue==Processing cycle
+Day==Day
+Week==Week
+Month==Month
+Year==Year
+StartTime==Start time
+EndTime==End time
+ExpectedDate==Expected date
+ScheduleType==Schedule type
+WeekDay==Day in week
+MonthDay==Day in month
+YearMonth==Month in year
+Input==Input value
+ScheduleList==Schedule list
+AdditionValueMessage==Value of field perform every day (week, month, year) have to greater than zero.
+NeverRunMessage==Invalid schedule, next execution time never come.
+NextDateMessage==Are you sure want to start executing on <%p>?
+WeekDayMessage==You have to choose at least one day in week
+MonthDayMessage==You have to choose at least one day in month
+YearMonthMessage==You have to choose at least one month in year
++==+
+ScheduleTypeTable=^
+	1=^
+		0==0
+		0==Daily
+	2=^
+		0==1
+		1==Weekly
+	3=^
+		0==2
+		2==Monthly
+	4=^
+		0==3
+		2==Yearly
+WeekDayTable=^
+	1=^
+		0==1
+		1==Sunday
+	2=^
+		0==2
+		1==Monday
+	3=^
+		0==3
+		1==Tuesday
+	4=^
+		0==4
+		1==Wednesday
+	5=^
+		0==5
+		1==Thursday
+	6=^
+		0==6
+		1==Friday
+	7=^
+		0==7
+		1==Saturday
+YearMonthTable=^
+	1=^
+		0==0
+		1==January
+	2=^
+		0==1
+		1==February
+	3=^
+		0==2
+		1==March
+	4=^
+		0==3
+		1==April
+	5=^
+		0==4
+		1==May
+	6=^
+		0==5
+		1==June
+	7=^
+		0==6
+		1==July
+	8=^
+		0==7
+		1==August
+	9=^
+		0==8
+		1==September
+	10=^
+		0==9
+		1==October
+	11=^
+		0==10
+		1==November
+	12=^
+		0==11
+		1==December

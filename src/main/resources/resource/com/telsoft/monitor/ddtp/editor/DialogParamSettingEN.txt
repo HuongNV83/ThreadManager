@@ -1,0 +1,29 @@
+Title==Thread setting
+ThreadName==Thread name
+ThreadClass==Class name
+StartupType==Startup type
+Detail==Detail
+ParameterList==Parameter list
+Name==Name
+Value==Value
+OK==OK
+	Mnemonic==O
+Cancel==Cancel
+	Mnemonic==C
+Schedule==Schedule
+	Mnemonic==H
+StartupTypeTable=^
+	0=^
+		0==0
+		1==Disabled
+	1=^
+		0==1
+		1==Automatic
+	2=^
+		0==2
+		1==Manual
+	3=^
+		0==3
+		1==Dependency
+Apply==Apply to...
+	Mnemonic==A

@@ -1,0 +1,10 @@
+FieldSelected==Parameters
+ThreadSelected==Destination threads
+Apply==Apply to
+Close==Close
+ParamName==Name
+ParamValue==Value
++==+
+ThreadName==Name
+ServerName==Server
+Status==Status

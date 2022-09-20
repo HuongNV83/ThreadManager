@@ -1,0 +1,19 @@
+Title==Thread manager
+ThreadList==Thread list
+ThreadName==Thread name
+Status==Status
++==+
+StatusTable=^
+	0=^
+		0==0
+		1==Stopped
+	1=^
+		0==1
+		1==Running
+	2=^
+		0==2
+		1==Error
+btnClose==Close
+btnStop==Stop
+btnStart==Start
+btnRestart==Restart

@@ -1,0 +1,53 @@
+SessionList==Session list
+UserName==User name
+OpenTime==Open time
+Host==Host
+LoggedUser==Logged user
+Message==Message
+ConfirmKick==Do you really want to kick this user?
+Kick==Kick
+	Mnemonic==K
+Refresh==Refresh
+	Mnemonic==R
+Send==Send
+	Mnemonic==S
+System==System
+	Mnemonic==S
+Login==Login
+	Mnemonic==L
+Logout==Logout
+	Mnemonic==L
+ChangePassword==Change password
+	Mnemonic==C
+ThreadManager==Thread manager
+	Mnemonic==T
+StopServer==Shutdown server
+	Mnemonic==H
+UI==UI
+	Mnemonic==U
+Help==Help
+	Mnemonic==H
+About==About
+	Mnemonic==A
+SelectAll==Select all
+	Mnemonic==S
+ClearAll==Clear all
+	Mnemonic==C
+ClearSelected==Clear selected
+	Mnemonic==L
+Confirm
+	Shutdown==Do you really want to kill server?
+Action==Action
+Session==Session
+Thread==Source
+IssueTime==Issue Time
+	FormatType==Date
+	Format==dd/MM/yyyy HH:mm:ss
+Description==Description
+IssueType==Type
+Clear==Clear
+Notification==Notification
+Main==Main
+Top==Main
+Total==Count
+Extension==Extension

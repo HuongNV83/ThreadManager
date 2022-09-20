@@ -1,0 +1,48 @@
+Title==System login
+UserName==User Name
+Password==Password
+Host==Host:Port
+SessionName==Session
+SavePassword==Save password
+Port==Port
+Protocol==Protocol
+SSHUserName==User Name
+SSHPassword==Password
+SSHHost==Host:Port
+SSH==Enable SSH Tunnel
+SystemInfor==System Monitor
+pnlGeneral==Connection
+pnlAdvanced==Advanced
+pnlAdvancedDetail==Advanced
+pnlSSH==SSH
+ProtocolTable=^
+	0=^
+		0==1
+		1==DDTP v1.0
+	1=^
+		0==2
+		1==DDTP v2.0
+	2=^
+		0==3
+		1==Hessian
+	3=^
+		0==4
+		1==SmartLib
+EncryptAlgorithm==Encryption
+EncryptAlgorithmTable=^
+	0=^
+		0==
+		1==No encryption
+	1=^
+		0==SHA
+		1==SHA
+	2=^
+		0==RSA
+		1==RSA
+	3=^
+		0==NG
+		1==NG Encryption
+OK==OK
+	Mnemonic==O
+Cancel==Cancel
+	Mnemonic==C

@@ -1,0 +1,26 @@
+Title==Thread setting
+StartupType==Startup type
+Detail==Detail
+ParameterList==Parameter list
+Name==Name
+Value==Value
+OK==OK
+	Mnemonic==O
+Cancel==Cancel
+	Mnemonic==C
+StartupTypeTable=^
+	0=^
+		0==0
+		1==Disabled
+	1=^
+		0==1
+		1==Automatic
+	2=^
+		0==2
+		1==Manual
+	3=^
+		0==3
+		1==Dependency
+	4=^
+		0==99
+		1==(Unmodified)

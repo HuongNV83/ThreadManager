@@ -1,0 +1,30 @@
+Title==Event log for thread
+DeleteOK==Do you really want to delete this log file server?
+Status
+	ThreadStarted==Thread started
+	ThreadStopped==Thread stopped
+Start==Start
+	Mnemonic==A
+Restart==Restart
+	Mnemonic==R
+Stop==Stop
+	Mnemonic==O
+StopDestroy==Destroy
+	Mnemonic==D
+StopNormal==Normal
+	Mnemonic==N
+Setting==Setting
+	Mnemonic==S
+ViewLog==View log
+	Mnemonic==V
+Process==Process
+	Mnemonic==P
+SelectAll==Select all
+	Mnemonic==S
+ClearAll==Clear all
+	Mnemonic==C
+ClearSelected==Clear selected
+	Mnemonic==L
+Confirm
+	Start==Do you really want to run this thread now?
+	Destroy==Do you really want to destroy the processing this thread?

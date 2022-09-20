@@ -1,0 +1,5 @@
+EN
+	Name==English
+	Image==images/en_flag.jpg
+	File==resource/telsoft/dictionary/EN_Dictionary.txt
+	ErrFile==resource/com/telsoft/dictionary/ERR_EN_Dictionary.txt

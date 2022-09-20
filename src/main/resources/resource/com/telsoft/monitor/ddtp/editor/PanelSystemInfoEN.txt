@@ -1,0 +1,46 @@
+GatewayInfo==Gateway Informations
+DispatcherInfo==Dispatcher Informations
+SystemInfo==System
+INGatewayInfo==IN Gateway
+Id==ID
+Name==Name
+ConnectionCount==Conn.
+SessionLoginCount==In
+SessionLogoutCount==Out
+TotalCommandRequested==Req.(c)
+TotalCommandSucceed==Succeed(c)
+TotalCommandFailed==Failed(c)
+ProcessSpeed==Sp(c/s)
+ProcessError==E(%)
+State==State
+pnlGateway==Command
+QueueINSize==Queue IN size(c):
+QueueOUTSize==Queue OUT size(c):
+QueueAttached==Queue attached (c):
+QueueDetached==Queue detached (c):
+QueueAttachSpeed==Queue attach speed (c/s):
+QueueDetachSpeed==Queue detach speed (c/s):
+Value==Value
+StateTable=^
+	0=^
+		0==0
+		1==None
+	1=^
+		0==1
+		1==Run
+	2=^
+		0==2
+		1==Stop
+Session==Sessions
+SessionID==Session Id
+Username==Username
+Gateway==Gateway
+LoginTime==LoginTime
+IP==IP Address
+KillSession==Kill
+pnlSystem==System
+pnlINGateway==IN Gateway
+pnlSession==Sessions
+btnKill==Kill
+btnKillMulti==Kill sessions
+btnKillByUser==Kill sessions by user

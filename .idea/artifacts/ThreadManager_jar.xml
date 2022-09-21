@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ThreadManager:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ThreadManager_jar</output-path>
+    <root id="archive" name="ThreadManager.jar">
+      <element id="module-output" name="ThreadManager" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/telsoft/com/smart-lib/1.0/smart-lib-1.0-smartserver.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/telsoft/com/smart-lib/1.0/smart-lib-1.0-smartservice.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/trilead/trilead-ssh2/1.0.0-build222/trilead-ssh2-1.0.0-build222.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/telsoft/com/smart-lib/1.0/smart-lib-1.0-smartservlet.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/caucho/hessian/4.0.7/hessian-4.0.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/codehaus/janino/commons-compiler/3.0.16/commons-compiler-3.0.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/codehaus/janino/janino/3.0.16/janino-3.0.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-simple/1.7.36/slf4j-simple-1.7.36.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
